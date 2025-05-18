@@ -1,0 +1,9 @@
+transformers
+torch
+pillow
+tqdm
+pandas
+datasets
+peft
+accelerate
+
